@@ -27,13 +27,16 @@
 ## Screenshots
 
 ### Home Feed  
-![Home Feed](./assets/home-feed.png)
+![Home Feed](./assets/home-feed.gif)
 
 ### Profile 
 ![Profile](./assets/profile.png)
 
 ### Users 
-![Users](./assets/usesrs.png)
+![Users](./assets/usesrs.gif)
+
+### Post 
+![Post](./assets/post.gif)
 
 ### Trending Hashtags  
 Coming soon !
