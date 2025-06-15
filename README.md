@@ -33,7 +33,7 @@
 ![Profile](./assets/profile.png)
 
 ### Users 
-![Users](./assets/usesrs.gif)
+![Users](./assets/users.gif)
 
 ### Post 
 ![Post](./assets/post.gif)
